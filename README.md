@@ -26,3 +26,6 @@ CSS – Styling, layout, and responsive design
 
 JavaScript – Audio control, event handling, playlist logic
 
+
+![music.png](https://github.com/Shwta23/Music-player/blob/main/images/music.png)
+
